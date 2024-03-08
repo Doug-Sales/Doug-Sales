@@ -1,29 +1,39 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Doug-Sales/7111bde65f7e735b8267014f5e1e482a/raw/f541027f71a781cff2d3600425deda56501e00b9/githubcard.svg" />
+<div align="left" >
 
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Douglas Medeiros</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?color=0:23FFE5,50:0860d0,100:1A30FF&height=120&section=header&type=waving&fontColor=B7B7D0&animation=fadeIn"
+alt="header"/>
   
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Doug-Sales/7111bde65f7e735b8267014f5e1e482a/raw/f541027f71a781cff2d3600425deda56501e00b9/githubcard.svg"/>
+
+### &nbsp; Hi dear<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" style="vertical-align: middle;">, I'm 
+&emsp; <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=50&duration=3000&pause=1500&vCenter=true&random=false&width=490&height=72&lines=Douglas+Medeiros;Full+Stack+developer+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Doug-Sales&color=yellow" alt="Profile views"/> </p>
+</div>
+<br>
 
+###  🧑‍💻  About
 
-- 🧑‍💻  Full Stack Web Developer
-
-- 🌐 My portfolio [douglasmedeiros.tech](https://douglasmedeiros.tech)
+- 💪🏻 _Strong points_: Backend Development & _current goal_: DevOps skills &nbsp;
   
-- 🎓 Currently pursuing a bachelor's degree in Information Systems.<br/>   Expected graduation: 12/25
+- 💬 _Ask me about_: **Typescript, Node.js, SQL, Web Development, Linux** &nbsp;
 
-- 💪🏻 Strong points: Backend Development & current goal: DevOps skills
+- 📖 _Currently studying_: Artificial Intelligence, Java, and Python languages &nbsp;
 
-- 💬 Ask me about **Typescript, Node.js, SQL, Web Development, Linux**
+- 🎓 Currently pursuing a bachelor's degree in **_Information Systems_**.&nbsp;
+    -  Expected graduation: 12/25 &nbsp;
 
-- 📖 Currently studying: Artificial Intelligence, Java, and Python languages
+- 🌐 *My portfolio* [douglasmedeiros.tech](https://douglasmedeiros.tech) &nbsp;
 
-- 📚 Hobbies: I enjoy reading a good book and spending time with family
+ <br>
 
-- 🤔 Curiosity: phlegmatic, low profile and self-taught
+- 📚 Hobbies: I enjoy reading a good book and spending time with family &nbsp;
+
+- 🤔 Curiosity: phlegmatic, low profile and self-taught &nbsp;
 
 <br/><br/>
 
-## 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp; Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
@@ -38,9 +48,9 @@
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-05122A?style=flat&logo=linux)&nbsp;
 
-<br/><br/>
 
-## ⚙️ &nbsp;GitHub Analytics
+
+## ⚙️ &nbsp; GitHub Analytics
 
 <p align="left">
   <img width="600em"   src="https://github-readme-streak-stats.herokuapp.com/?user=Doug-Sales&theme=react&hide_border=true" alt="Doug-Sales stats"/>
@@ -61,33 +71,5 @@
   </a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?color=0:23FFE5,50:0860d0,100:1A30FF&height=120&section=footer&type=waving&fontColor=B7B7D0&animation=fadeIn"
+alt="header"/>
