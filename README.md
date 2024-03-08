@@ -6,8 +6,8 @@ alt="header"/>
 
 <div align="left" >
   
-### Hi dear<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" style="vertical-align: middle;">, I'm <br>
-<img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=45&duration=3000&pause=1500&vCenter=true&random=false&width=490&height=72&lines=Douglas+Medeiros;Full+Stack+developer+">&nbsp;
+### Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" style="vertical-align: middle;">, I'm <br>
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=45&duration=3000&pause=1500&vCenter=true&random=false&width=490&height=72&lines=Douglas+Medeiros;Full+Stack+developer+">&nbsp;
 </div>&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Doug-Sales&color=yellow" alt="Profile views"/> </p>
 <br>
