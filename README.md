@@ -1,16 +1,19 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?color=0:23FFE5,50:0860d0,100:1A30FF&height=120&section=header&type=waving&fontColor=B7B7D0&animation=fadeIn"
 alt="header"/>
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Doug-Sales/7111bde65f7e735b8267014f5e1e482a/raw/f541027f71a781cff2d3600425deda56501e00b9/githubcard.svg"/>
-
-
-<div align="left" >
+<div>
   
-### Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" style="vertical-align: middle;">, I'm
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=45&duration=3000&pause=1500&vCenter=true&random=false&width=490&height=72&lines=Douglas+Medeiros;Full+Stack+developer+">&nbsp;
+  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Doug-Sales/7111bde65f7e735b8267014f5e1e482a/raw/f541027f71a781cff2d3600425deda56501e00b9/githubcard.svg"/>
+
+
+  <div align="left" >
+  
+  ### Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" style="vertical-align: middle;">, I'm
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=45&duration=3000&pause=1500&vCenter=true&random=false&width=490&height=72&lines=Douglas+Medeiros;Full+Stack+developer+">&nbsp;
 <br><br>
+  </div>&nbsp;
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Doug-Sales&color=yellow" alt="Profile views"/> </p>
-</div>&nbsp;
 <br>
 
 ###  🧑‍💻  About
