@@ -28,7 +28,7 @@ alt="header"/>
 - 🎓 Currently pursuing a bachelor's degree in **_Information Systems_**.&nbsp;
     -  Expected graduation: 12/25&nbsp;
 
-- 🌐 *My portfolio* [douglasmedeiros.tech](https://douglasmedeiros.tech)&nbsp;
+- 🌐 *My portfolio* <a href="https://douglasmedeiros.tech" target="_blank">douglasmedeiros.tech</a>&nbsp;
 
  <br>
 
