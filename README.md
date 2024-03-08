@@ -28,7 +28,7 @@ alt="header"/>
 - 🎓 Currently pursuing a bachelor's degree in **_Information Systems_**.&nbsp;
     -  Expected graduation: 12/25&nbsp;
 
-- 🌐 *My portfolio* <a href="https://douglasmedeiros.tech" target="_blank">douglasmedeiros.tech</a>&nbsp;
+- 🌐 *My portfolio* <a href="https://douglasmedeiros.tech" target="_blank" alt="Portfolio">douglasmedeiros.tech</a>&nbsp;
 
  <br>
 
@@ -69,7 +69,6 @@ alt="header"/>
   <a href="https://linkedin.com/in/douglas-saless/" target="_blank" title="LinkedIn" >
     <img align="center" src="https://img.shields.io/badge/Douglas%20Medeiros-05122A?style=flat&logo=linkedin&logoColor=blue" alt="linkedin"/>
   </a>  
-
   
    <a href="https://hackerrank.com/profile/douglasmsales28" target="_blank" title="HackerRank" >
     <img align="center" src="https://img.shields.io/badge/Douglas%20Medeiros-05122A?style=flat&logo=hackerrank" alt="hackerranck"/>
