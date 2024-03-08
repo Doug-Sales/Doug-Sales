@@ -3,9 +3,9 @@
 alt="header"/>
 <div>
 
+   <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Doug-Sales/7111bde65f7e735b8267014f5e1e482a/raw/f541027f71a781cff2d3600425deda56501e00b9/githubcard.svg"/>
  <div align="left" >
 
-   <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Doug-Sales/7111bde65f7e735b8267014f5e1e482a/raw/f541027f71a781cff2d3600425deda56501e00b9/githubcard.svg"/>
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=35&duration=01&pause=1000&vCenter=true&repeat=false&random=false&width=126&height=36&lines=Hi+dear)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px" style="vertical-align: top;">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=35&duration=01&pause=1000&vCenter=true&repeat=false&random=false&width=126&height=36&lines=%2C+I'm)](https://git.io/typing-svg)<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=45&duration=3000&pause=1500&vCenter=true&repeat=false&random=false&width=440&height=62&lines=Douglas+Medeiros;Full+Stack+developer)](https://git.io/typing-svg)&nbsp;
 <br>
